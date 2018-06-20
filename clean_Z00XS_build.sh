@@ -32,8 +32,8 @@ make -j9 ARCH=arm clean
 
 # fire up the building process and also log stdout
 # and stderrout
-breakfast lineage_x2-userdebug 2>&1 | tee breakfast.log && \
-brunch lineage_x2-userdebug 2>&1 | tee make.log
+breakfast lineage_Z00XS-userdebug 2>&1 | tee breakfast.log && \
+brunch lineage_Z00XS-userdebug 2>&1 | tee make.log
 
 # remove all temp directories
 rm -r ${TMP}
