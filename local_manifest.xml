@@ -3,7 +3,7 @@
         <!-- LineageOS / lineage-n-asus-Z00XS / device -->
         <project name="lineage-n-asus-Z00XS/android_device_asus_mofd-common/" path="device/asus/mofd-common" remote="github" revision="lineage-15.1"/>
         <project name="lineage-n-asus-Z00XS/android_device_asus_Z00XS" path="device/asus/Z00XS" remote="github" revision="lineage-15.1"/>
-        <project name="LineageOS/android_kernel_asus_moorefield" path="kernel/asus/moorefield" remote="github" revision="lineage-15.1"/>
+        <project name="lineage-n-asus-Z00XS/android_kernel_asus_moorefield" path="kernel/asus/moorefield" remote="github" revision="lineage-15.1"/>
 
         <!-- TheMuppets / lineage-n-asus-Z00XS / vendor -->
         <project name="lineage-n-asus-Z00XS/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="lineage-15.1"/>
